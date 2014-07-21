@@ -48,3 +48,12 @@ gem 'carrierwave'
 gem 'devise'
 
 gem 'thin'
+
+gem 'protected_attributes'
+
+gem 'http_accept_language'
+
+gem 'slim'
+gem 'slim-rails'
+
+gem 'foundation-rails'
