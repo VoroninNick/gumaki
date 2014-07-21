@@ -38,3 +38,13 @@ gem 'spring',        group: :development
 # Use debugger
 # gem 'debugger', group: [:development, :test]
 
+gem 'ckeditor'
+gem 'rails_admin'
+
+gem 'globalize'
+gem 'rails_admin_globalize_field'
+
+gem 'carrierwave'
+gem 'devise'
+
+gem 'thin'
